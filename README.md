@@ -1,7 +1,7 @@
 <img align="center" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
 <h1 align="center">Hi 👋, I'm Kamal Adel Farid</h1>
 <h3 align="center">Android Developer</h3>
-<img align="right" />
+<img align="right" alt="GIF" src="https://www.damiestechnologies.com/img/programmer.gif" width="320" height="280" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

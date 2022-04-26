@@ -1,4 +1,4 @@
-<img align="center" https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif/>
+<img align="center" src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif"/>
 <h1 align="center">Hi 👋, I'm Kamal Adel Farid</h1>
 <h3 align="center">Android Developer</h3>
 <img align="right" />

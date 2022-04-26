@@ -1,7 +1,7 @@
-<img align="center" https://www.google.com/search?q=image+android+developer+gif&sxsrf=APq-WBtuREgbT6b42kH8JeLaI6Wl--bBsQ:1651008809001&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTmNOM17L3AhVCyhoKHeEDAyoQ_AUoAXoECAEQAw&biw=1366&bih=663&dpr=1#imgrc=4FSlKGflnYm-EM/>
+<img align="center" https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif/>
 <h1 align="center">Hi 👋, I'm Kamal Adel Farid</h1>
 <h3 align="center">Android Developer</h3>
-<img align="right"https://www.google.com/search?q=image+android+developer+gif&sxsrf=APq-WBtuREgbT6b42kH8JeLaI6Wl--bBsQ:1651008809001&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTmNOM17L3AhVCyhoKHeEDAyoQ_AUoAXoECAEQAw&biw=1366&bih=663&dpr=1#imgrc=zhjSEq0Xd_DH7M/>
+<img align="right" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
